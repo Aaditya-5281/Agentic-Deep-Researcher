@@ -108,7 +108,7 @@ streamlit run app.py
       "command": "uv",
       "args": [
         "--directory",
-        "./Multi-Agent-deep-researcher-mcp-windows-linux",
+        "./Multi-Agent-deep-researcher-mcp",
         "run",
         "server.py"
       ],
