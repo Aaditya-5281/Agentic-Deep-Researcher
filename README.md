@@ -18,9 +18,9 @@
    - Users interact with the system through a modern, intuitive web interface built with Streamlit.
    - The interface allows users to submit research queries, configure API keys, and view results in a conversational, chat-like format.
 
-4. **MCP (Multi-Command Platform) Server Capability**
+4. **MCP (Model Context Protocol) Server Capability**
    - The project exposes its research functionality as an MCP tool using the `mcp` package.
-   - This means the research agent can be called programmatically by other systems or automation tools, making it suitable for integration into larger workflows.
+   - This means the research agent can be called programmatically by other systems or automation tools that support the Model Context Protocol, making it suitable for integration into larger workflows.
 
 5. **Process Transparency and Visualization**
    - The system is designed to not only provide answers but also to show the process and sources used in generating those answers.
