@@ -76,7 +76,7 @@ This project demonstrates the power of combining:
 - Multi-agent AI systems,
 - External data APIs,
 - Modern web interfaces,
-- And programmable automation (MCP).
+- Model Context Protocol (MCP).
 
 It serves as a template for building intelligent, extensible research assistants and showcases best practices in modern Python project development.
 
