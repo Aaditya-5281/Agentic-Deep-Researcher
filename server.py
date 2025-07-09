@@ -23,20 +23,4 @@ if __name__ == "__main__":
     mcp.run(transport="stdio")
 
 
-# add this inside ./.cursor/mcp.json
-# {
-#   "mcpServers": {
-#     "crew_research": {
-#       "command": "uv",
-#       "args": [
-#         "--directory",
-#         "/Users/akshay/Eigen/ai-engineering-hub/Multi-Agent-deep-researcher-mcp-windows-linux",
-#         "run",
-#         "server.py"
-#       ],
-#       "env": {
-#         "LINKUP_API_KEY": "your_linkup_api_key_here"
-#       }
-#     }
-#   }
-# }
+
